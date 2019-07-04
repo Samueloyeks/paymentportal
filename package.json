@@ -3,8 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.0.0-rc.0",
+    "cleave.js": "^1.5.2",
+    "credit-card-space": "^1.4.2",
+    "node-sass": "^4.12.0",
+    "prop-types": "^15.7.2",
     "react": "^16.8.6",
+    "react-avatar": "^3.6.0",
+    "react-credit-cards": "^0.7.0",
     "react-dom": "^16.8.6",
+    "react-number-format": "^4.0.8",
     "react-scripts": "3.0.1"
   },
   "scripts": {
@@ -27,5 +35,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3"
   }
 }
